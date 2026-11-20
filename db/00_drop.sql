@@ -2,7 +2,6 @@
 -- Term Project: Hotel Reservation System
 -- File: 00_drop.sql
 
-
 SET SERVEROUTPUT ON;
 SELECT USER AS connected_as, SYSDATE AS run_on FROM dual;
 
