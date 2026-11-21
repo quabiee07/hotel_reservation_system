@@ -1,6 +1,6 @@
 -- COMP214 — Advanced Database Concepts
 -- Term Project: Hotel Reservation System
--- File: 30_functions.sql
+-- File: 30_fn_room_available.sql
 
 SET SERVEROUTPUT ON;
 SELECT USER AS connected_as, SYSDATE AS run_on FROM dual;
